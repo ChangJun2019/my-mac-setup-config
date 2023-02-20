@@ -1,3 +1,3 @@
 ## my-mac-setup-config
 
-- brewfile Homebrew的配置文件
+- brewfile Homebrew 的配置文件
