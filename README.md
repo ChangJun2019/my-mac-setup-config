@@ -1,3 +1,3 @@
-## my-mac-setup-config
+## MY MAC CONFIGURATION FILES
 
-- brewfile Homebrew 的配置文件
+- warp_starship.toml [Starship](https://starship.rs) Prompt config
